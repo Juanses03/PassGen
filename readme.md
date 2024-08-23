@@ -51,8 +51,6 @@ For any questions or suggestions, please contact:
 
 ---
 
-Aquí tienes el contenido del archivo `README.md` en español:
-
 ---
 
 # Generador de Contraseñas
